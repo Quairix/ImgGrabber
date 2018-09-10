@@ -1,0 +1,12 @@
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\ImgGrabber.exe.config
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\ImgGrabber.exe
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\ImgGrabber.pdb
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\WebDriver.dll
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\WebDriver.xml
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\obj\Debug\ImgGrabber.csprojAssemblyReference.cache
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\obj\Debug\ImgGrabber.csproj.CoreCompileInputs.cache
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\obj\Debug\ImgGrabber.csproj.CopyComplete
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\obj\Debug\ImgGrabber.exe
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\obj\Debug\ImgGrabber.pdb
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\WebDriver.Support.dll
+C:\ForGit\UE4First\ImgGrabber\ImgGrabber\bin\Debug\WebDriver.Support.xml
